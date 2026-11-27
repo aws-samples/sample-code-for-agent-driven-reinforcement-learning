@@ -1,0 +1,14 @@
+{
+  "reward_path": "rewards/iter_5.py",
+  "steps": 300000,
+  "seed": 7,
+  "n_envs": 4,
+  "gamma": 0.99,
+  "ent_coef": 0.01,
+  "learning_rate": 0.0006,
+  "n_steps": 1024,
+  "train_mean_episode_reward": 301.74217854,
+  "train_episodes_recorded": 100,
+  "checkpoint": "artifacts/iter_5/policy.zip",
+  "weights": "artifacts/iter_5/policy_weights.npz"
+}

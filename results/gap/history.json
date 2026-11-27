@@ -1,0 +1,142 @@
+[
+  {
+    "timesteps": 50000,
+    "train_reward": 57.62091925,
+    "landing_rate": 0.0,
+    "loiter_fraction": 0.032518863634504847,
+    "crash_rate": 1.0
+  },
+  {
+    "timesteps": 100000,
+    "train_reward": 103.02821642,
+    "landing_rate": 0.0,
+    "loiter_fraction": 0.013726071291590095,
+    "crash_rate": 1.0
+  },
+  {
+    "timesteps": 150000,
+    "train_reward": 196.26552848,
+    "landing_rate": 0.0,
+    "loiter_fraction": 0.008297268818938032,
+    "crash_rate": 0.6
+  },
+  {
+    "timesteps": 200000,
+    "train_reward": 435.94905863,
+    "landing_rate": 0.0,
+    "loiter_fraction": 0.5944,
+    "crash_rate": 0.0
+  },
+  {
+    "timesteps": 250000,
+    "train_reward": 700.62932835,
+    "landing_rate": 0.0,
+    "loiter_fraction": 0.8758666666666667,
+    "crash_rate": 0.0
+  },
+  {
+    "timesteps": 300000,
+    "train_reward": 785.26131431,
+    "landing_rate": 0.0,
+    "loiter_fraction": 0.9337333333333333,
+    "crash_rate": 0.0
+  },
+  {
+    "timesteps": 350000,
+    "train_reward": 790.7141474599999,
+    "landing_rate": 0.0,
+    "loiter_fraction": 0.8567333333333333,
+    "crash_rate": 0.0
+  },
+  {
+    "timesteps": 400000,
+    "train_reward": 801.2541484500001,
+    "landing_rate": 0.0,
+    "loiter_fraction": 0.9367333333333333,
+    "crash_rate": 0.0
+  },
+  {
+    "timesteps": 450000,
+    "train_reward": 827.1539088799999,
+    "landing_rate": 0.0,
+    "loiter_fraction": 0.9635333333333335,
+    "crash_rate": 0.0
+  },
+  {
+    "timesteps": 500000,
+    "train_reward": 844.69515799,
+    "landing_rate": 0.0,
+    "loiter_fraction": 0.9410000000000002,
+    "crash_rate": 0.0
+  },
+  {
+    "timesteps": 550000,
+    "train_reward": 851.9732649199999,
+    "landing_rate": 0.0,
+    "loiter_fraction": 0.9387333333333333,
+    "crash_rate": 0.0
+  },
+  {
+    "timesteps": 600000,
+    "train_reward": 868.50954654,
+    "landing_rate": 0.0,
+    "loiter_fraction": 0.9686,
+    "crash_rate": 0.0
+  },
+  {
+    "timesteps": 650000,
+    "train_reward": 879.3822971899999,
+    "landing_rate": 0.0,
+    "loiter_fraction": 0.958,
+    "crash_rate": 0.0
+  },
+  {
+    "timesteps": 700000,
+    "train_reward": 898.52807049,
+    "landing_rate": 0.0,
+    "loiter_fraction": 0.9599333333333334,
+    "crash_rate": 0.0
+  },
+  {
+    "timesteps": 750000,
+    "train_reward": 916.83001595,
+    "landing_rate": 0.0,
+    "loiter_fraction": 0.9596666666666669,
+    "crash_rate": 0.0
+  },
+  {
+    "timesteps": 800000,
+    "train_reward": 910.53187337,
+    "landing_rate": 0.0,
+    "loiter_fraction": 0.9399999999999998,
+    "crash_rate": 0.0
+  },
+  {
+    "timesteps": 850000,
+    "train_reward": 898.6745985299999,
+    "landing_rate": 0.0,
+    "loiter_fraction": 0.9296,
+    "crash_rate": 0.0
+  },
+  {
+    "timesteps": 900000,
+    "train_reward": 899.4914326700001,
+    "landing_rate": 0.0,
+    "loiter_fraction": 0.9402666666666667,
+    "crash_rate": 0.0
+  },
+  {
+    "timesteps": 950000,
+    "train_reward": 899.1792273400001,
+    "landing_rate": 0.0,
+    "loiter_fraction": 0.9326666666666665,
+    "crash_rate": 0.0
+  },
+  {
+    "timesteps": 1000000,
+    "train_reward": 923.5194298700001,
+    "landing_rate": 0.0,
+    "loiter_fraction": 0.9302666666666665,
+    "crash_rate": 0.0
+  }
+]

@@ -1,0 +1,5 @@
+{"run_dir": "artifacts/iter_1", "n_episodes": 50, "landing_rate": 0.04, "crash_rate": 0.88, "timeout_rate": 0.08, "loiter_fraction": 0.07498121587343862, "mean_episode_steps": 329.28, "passed": false}
+{"run_dir": "artifacts/iter_2", "n_episodes": 50, "landing_rate": 0.0, "crash_rate": 1.0, "timeout_rate": 0.0, "loiter_fraction": 0.09003133550774216, "mean_episode_steps": 287.1, "passed": false}
+{"run_dir": "artifacts/iter_3", "n_episodes": 50, "landing_rate": 0.54, "crash_rate": 0.42, "timeout_rate": 0.04, "loiter_fraction": 0.12824666440687593, "mean_episode_steps": 293.98, "passed": false}
+{"run_dir": "artifacts/iter_4", "n_episodes": 50, "landing_rate": 0.82, "crash_rate": 0.16, "timeout_rate": 0.02, "loiter_fraction": 0.2178156966376918, "mean_episode_steps": 299.74, "passed": false}
+{"run_dir": "artifacts/iter_5", "n_episodes": 50, "landing_rate": 0.9, "crash_rate": 0.1, "timeout_rate": 0.0, "loiter_fraction": 0.34408400003413897, "mean_episode_steps": 327.56, "passed": true}
